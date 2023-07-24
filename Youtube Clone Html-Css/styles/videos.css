@@ -1,0 +1,87 @@
+.image1{
+    width: 100%;
+    display: block;
+}
+
+
+
+
+ai-author ,
+ai-stats {
+
+    color: rgb(96, 96, 96);
+    font: 12;
+    
+    
+}
+
+
+
+.video-title{
+
+width: 100%;
+display: inline-block;
+margin-left: 10px;
+font-size: 14px;
+
+
+}
+.Channel-pic-1{
+
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    margin-top: 5px;
+    border-radius: 5px;
+    
+    
+}
+.profile-pic{
+    width: 50px;
+    border-bottom-right-radius: 20px;
+    
+}
+
+.text-wala-dev{
+
+   display: inline-block;
+    width: 240px;
+    vertical-align: top;
+    
+    
+}
+
+.ai-author{
+    
+    
+    color: rgb(96, 96, 96);
+    font-size: 12spx;
+    vertical-align: top;
+    margin-top: 8px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+}
+.ai-stats{
+    
+    color: rgb(96, 96, 96);
+    font-size: 12px;
+    vertical-align: top;
+    margin-top: 2px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    
+}
+
+.video-Grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 17px;
+    row-gap: 40px;
+    
+    
+}
+
+.Profile-pic{
+    border-radius: 70px;
+    width: 40px;
+}
